@@ -1,0 +1,17 @@
+.Display {
+  font-size: 64px;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+
+  width: 100%;
+  box-sizing: border-box;
+
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 6px 16px;
+
+  cursor: default;
+}
+.Display:focus {
+  outline: none;
+}
