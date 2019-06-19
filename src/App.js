@@ -18,8 +18,6 @@ function App() {
     setDisplayNum(displayNum)
   };
 
-
-
   return (
     <div className="App">
       <Display value={displayNum} />
